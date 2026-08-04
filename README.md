@@ -44,16 +44,16 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4fakerirl&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n4fakerirl&theme=date_night&utcOffset=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n4fakerirl&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-oxl&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-oxl&theme=date_night&utcOffset=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-oxl&theme=date_night" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-- 💌 Discord : n4fakerirl
+- 💌 Discord : ---
 - ✉️ *[ocviller@student.42.fr]*
 
 ---
