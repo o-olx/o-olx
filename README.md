@@ -40,9 +40,9 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-oxl&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-oxl&theme=date_night&utcOffset=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-oxl&theme=date_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-olx&theme=date_night" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-olx&theme=date_night&utcOffset=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-olx&theme=date_night" />
 </p>
 
 ---
@@ -109,10 +109,11 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-oxl&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-oxl&theme=date_night&utcOffset=1" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-oxl&theme=date_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-olx&theme=date_night" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-olx&theme=date_night&utcOffset=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-olx&theme=date_night" />
 </p>
+
 
 ---
 
