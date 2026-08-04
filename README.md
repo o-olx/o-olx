@@ -40,9 +40,15 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-olx&theme=date_night" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-olx&theme=date_night&utcOffset=1" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-olx&theme=date_night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o-olx&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-olx&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=o-olx&theme=dracula" />
 </p>
 
 ---
@@ -110,11 +116,16 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-olx&theme=date_night" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-olx&theme=date_night&utcOffset=1" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-olx&theme=date_night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o-olx&show_icons=true&theme=dracula" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-olx&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=o-olx&theme=dracula" />
+</p>
 
 ---
 
