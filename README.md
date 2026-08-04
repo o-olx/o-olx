@@ -75,7 +75,7 @@
 
 # 👩‍💻 o-olx
 
-🎓 Computer Science student at [42 Paris](https://42.fr/)
+🎓 Computer Science student at [42 Paris](https://42.fr/)  
 💻 April 2025 intake
 
 ---
