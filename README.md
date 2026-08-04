@@ -66,3 +66,76 @@
  (  ___  )   |     |
   ||   ||    |_____|
 ```
+
+---
+
+## [ENGLISH VERSION]
+
+![header](https://capsule-render.vercel.app/api?type=blur\&height=300\&color=gradient\&text=Welcome%20to%20my%20GitHub!\&fontColor=ffe0fd\&textBg=false\&stroke=000000\&strokeWidth=0.3\&fontAlign=50)
+
+# 👩‍💻 o-olx
+
+🎓 Computer Science student at [42 Paris](https://42.fr/)
+💻 April 2025 intake
+
+---
+
+## 🧠 Completed 42 Projects
+
+* 🧩 **Piscine Reloaded** – A collection of exercises reviewing the core concepts learned during the 42 Piscine
+* 🧱 **Libft** – Development of a personal C standard library
+* 🖨️ **Ft_printf** – Partial reimplementation of the C `printf` function, handling formatted output and type conversions
+* 🔍 **Get Next Line** – Reading files line by line with dynamic memory management
+* 🔐 **Born2beroot** – Introduction to Linux system administration and virtualization
+* ♻️ **Push_swap** – Optimized sorting algorithms using stack operations
+* 🎮 **So_long** – Development of a 2D game using MiniLibX, combining map parsing, keyboard event handling, and real-time rendering
+* ✉️ **Minitalk** – Inter-process communication using UNIX signals to transmit messages bit by bit
+* 🍽️ **Philosophers** – Thread synchronization and mutex management to solve the Dining Philosophers problem
+* 💻 **Minishell** – Development of a Unix shell in C with parsing, built-in commands, redirections, and pipes
+
+---
+
+## 🧠 Current 42 Projects
+
+* 🕹️ **Cub3D** – Developing a 3D engine inspired by Wolfenstein 3D using the raycasting technique
+* 📦 **C++ Modules (00 → 09)** – Comprehensive introduction to object-oriented programming in C++
+
+---
+
+## 💼 Technical Skills
+
+<p align="center">
+   <img width="500" height="239" alt="image" src="https://github.com/user-attachments/assets/d499eb97-47ae-4efd-8b77-8a1a936f4d30" />
+</p>
+
+* 🤍 **Languages:** `C`, `C++`, `Shell`
+* 🤍 **Tools:** `Vim`, `Git`, `Makefile`
+* 🤍 **Core Skills:** Memory management, algorithms, debugging
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-oxl&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o-oxl&theme=date_night&utcOffset=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o-oxl&theme=date_night" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+* 💌 Discord: ---
+* ✉️ *[ocviller@student.42.fr](mailto:ocviller@student.42.fr)*
+
+---
+
+```text
+   /\_/\      _____
+  ( o.o )    /     |
+   > ^ <     |  [] |
+  /     \    |     |
+ (  ___  )   |     |
+  ||   ||    |_____|
+```
