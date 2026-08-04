@@ -19,12 +19,12 @@
 - ✉️ **Minitalk** – Communication entre deux programmes via signaux UNIX, bit par bit, avec reconstruction de messages
 - 🍽️ **Philosophers** – Gestion de threads et synchronisation pour résoudre le problème des philosophes mangeurs avec mutex et timing
 - 💻 **Minishell** – Création d’un mini shell en C avec parsing, gestion des commandes internes, redirections et pipes
+- 🕹️ **Cub3D** – Développement d’un moteur 3D inspiré de Wolfenstein 3D, affichant un environnement en première personne grâce au raycasting
 
 ---
 
 ## 🧠 Projets en cours à 42
 
-- 🕹️ **Cub3D** – Développement d’un moteur 3D inspiré de Wolfenstein 3D, affichant un environnement en première personne grâce au raycasting
 - 📦 **C++ Modules (00 → 09)** – Parcours complet de la programmation orientée objet en C++
 
 ---
@@ -92,12 +92,12 @@
 * ✉️ **Minitalk** – Inter-process communication using UNIX signals to transmit messages bit by bit
 * 🍽️ **Philosophers** – Thread synchronization and mutex management to solve the Dining Philosophers problem
 * 💻 **Minishell** – Development of a Unix shell in C with parsing, built-in commands, redirections, and pipes
+* 🕹️ **Cub3D** – Developing a 3D engine inspired by Wolfenstein 3D using the raycasting technique
 
 ---
 
 ## 🧠 Current 42 Projects
 
-* 🕹️ **Cub3D** – Developing a 3D engine inspired by Wolfenstein 3D using the raycasting technique
 * 📦 **C++ Modules (00 → 09)** – Comprehensive introduction to object-oriented programming in C++
 
 ---
