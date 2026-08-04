@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Bienvenue%20sur%20mon%20GitHub!&fontColor=ffe0fd&textBg=false&stroke=000000&strokeWidth=0.3&fontAlign=50)
 
-# 👩‍💻 n4fakerirl
+# 👩‍💻 o-olx
 
 🎓 Étudiante en informatique à [42 Paris](https://42.fr/)  
 💻 Rentrée d'avril 2025
