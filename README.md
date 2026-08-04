@@ -30,10 +30,6 @@
 ---
 
 ## 💼 Compétences techniques
-
-<p align="center">
-   <img width="500" height="239" alt="image" src="https://github.com/user-attachments/assets/d499eb97-47ae-4efd-8b77-8a1a936f4d30" />
-</p>
    
 - 🤍 Langages : `C`, `C++` et `Shell`
 - 🤍 Outils : `Vim`, `Git`, `Makefile`
@@ -75,7 +71,7 @@
 
 # 👩‍💻 o-olx
 
-🎓 Computer Science student at [42 Paris](https://42.fr/)  
+🎓 Computer Science student at [42 Paris](https://42.fr/)
 💻 April 2025 intake
 
 ---
@@ -104,10 +100,6 @@
 
 ## 💼 Technical Skills
 
-<p align="center">
-   <img width="500" height="239" alt="image" src="https://github.com/user-attachments/assets/d499eb97-47ae-4efd-8b77-8a1a936f4d30" />
-</p>
-
 * 🤍 **Languages:** `C`, `C++`, `Shell`
 * 🤍 **Tools:** `Vim`, `Git`, `Makefile`
 * 🤍 **Core Skills:** Memory management, algorithms, debugging
@@ -131,7 +123,7 @@
 
 ---
 
-```text
+```
    /\_/\      _____
   ( o.o )    /     |
    > ^ <     |  [] |
